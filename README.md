@@ -35,12 +35,6 @@
 - [Documentation](https://keen-slider.io/docs)
 - [Examples](https://keen-slider.io/examples)
 
-## Used by
-
-<p align="middle" dir="auto">
-  <a href="https://tinder.com/" rel="nofollow"><img width="285" src="https://keen-slider.io/images/tinder.png" style="max-width: 100%;">
-</p>
-
 ## Contributing
 
 Please open an issue if you find a bug or need some help. You are also free to create a pull request.
